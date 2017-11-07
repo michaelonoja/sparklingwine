@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/src/java/session/ProductFacade.java</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/web/test/test.jsp</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/src/java/entity/Category.java</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/src/java/session/CustomerFacade.java</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/web/WEB-INF/view/checkout.jsp</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/src/java/session/AbstractFacade.java</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/src/java/session/CategoryFacade.java</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/web/index.jsp</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/web/WEB-INF/view/cart.jsp</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/web/css/styling.css</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/src/java/session/CustomerOrderHasProductFacade.java</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/web/WEB-INF/JSPF/footer.jspf</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/src/java/session/CustomerOrderFacade.java</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/src/java/controller/ControllerServlet.java</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/web/WEB-INF/view/confirmation.jsp</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/web/WEB-INF/view/category.jsp</file>
+            <file>file:/C:/Users/onoja/Documents/NetBeansProjects/e-commercewine/web/WEB-INF/JSPF/header.jspf</file>
+        </group>
+    </open-files>
+</project-private>
